@@ -3,10 +3,11 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    site_url: 'https://musedivision.github.io/blog',
-    siteUrl: 'https://musedivision.github.io/blog',
-    url: 'https://musedivision.github.io/blog',
+    site_url: 'https://musedivision.github.io',
+    siteUrl: 'https://musedivision.github.io',
+    url: 'https://musedivision.github.io',
     title: 'thinking...',
+    pathPrefix: `/blog`,
     subtitle:
       'learning how to learn',
     copyright: '© All rights reserved.',
