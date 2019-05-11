@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://musedivision.github.io/blog',
+    siteUrl: 'https://musedivision.github.io',
     url: 'https://musedivision.github.io/blog',
     title: 'thinking...',
     subtitle:
