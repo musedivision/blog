@@ -1,41 +1,35 @@
 ---
-title: "Zero to Deep learning in 3 months"
+title: "Zero to Deep learning"
 date: "2019-05-02T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/3months-to-deep-learning/"
 category: "Deep learning"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Quit job. Study 3 months full time. Become Deep learning researcher. "
+  - "Deep Learning"
+  - "Learning"
+  - "mathematics"
+description: "Quit job. Study 3 months. Become Deep learning researcher. "
 ---
 
 <!-- ![daniel hertzberg](./daniel_hertzberg_artificial_intelligence_with_human_feelings.jpg) -->
 
-1. Quit job
-2. Study 3 months full time
-3. Become Deep learning researcher
-4. ??? 
+I am embarking on an ambitious learning project for the next 3 months:  
+Learning deep learning and the mathematics behind it by studying only online resources such as fastai, MIT opencourseware and YouTube.  
 
-Studying only online resources such as fastai, MIT opencourseware and YouTube.  
-I plan to build a strong foundational knowledge in the practical methods for building deep learning systems and the mathematics involved.
-
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)
+<!--![placeholder photo](./1.jpg)-->
 
 
 ## Why deep learning?
-Because deep learning is cool! Its like particle physics in the early 20th Century crossed with the advent of Personal computers in the 70s! 
-New and exciting frontiers are opening up for fundamental buildind blocks of intelligence and the barrier to entry is just a computer with access to the internet. It feels like a unique moment in human history and I am very excited by it. 
+Deep learning is cool! Its like particle physics in the early 20th Century crossed with the advent of Personal computers in the 70s! 
+New and exciting frontiers are open to discover the fundamental building blocks of intelligence and the barrier to entry is just a computer with access to the internet. It feels like a unique moment in human history and I am very excited by it. 
 
 ## Starting with random weights
-My background isn't machine learning or mathematics.  I studied Psychology for 4 years at University and took only 2 maths papers in statistics.  
+My background isn't in machine learning or mathematics.  I study Psychology for 5 years at University but only ever took a couple of papers in statistics. I never thought that mathematics would be something I would be interested in.
+I have no idea about linear algebra or calculus.
 
-I have no idea about linear algebra or calculus, but I can code.
-
-Three years ago I self studied coding using Freecodecamp (ref) for 8months. I was lucky that this great startup Forsite(link) gave me a chance as an intern. Fast forward to now. I have been writing Javascript professionally for 2 years and I still feel like an imposter some days.  So why not feel like an imposter doing deep learning?
+I am a Javascript developer by trade. 
+Three years ago I self studied coding using Freecodecamp (ref) for 8months. I was lucky to get a chance by the New Zealand Forsite(link) gave me a chance as an intern. Fast forward to now. I have been writing Javascript professionally for 2 years and I still feel like an imposter some days.  So why not feel like an imposter doing deep learning?
 
 
 ## So naïve 
@@ -48,6 +42,7 @@ With that blissful ignorance about the difficulty we can happily skip into plan 
 
 
 # 🧳 The Plan
+I hope to build a strong foundational knowledge in the practical methods for building deep learning systems and the mathematics involved.
 
 ### Machine Learning and Deep learning
 
