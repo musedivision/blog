@@ -21,24 +21,45 @@ Learning deep learning and the mathematics behind it by studying only online res
 
 
 ## Why deep learning?
-Deep learning is cool! Its like particle physics in the early 20th Century crossed with the advent of Personal computers in the late 70s! 
-New and exciting frontiers are open to discover the fundamental building blocks of intelligence and the barrier to entry is just a computer with access to the internet. It feels like a unique moment in human history and I am very excited.
+Deep learning is cool! Its like particle physics in the early 20th Century crossed with the advent of Personal computers in the late 70s.
+New and exciting frontiers are open to discover the fundamental building blocks of intelligence and the barrier to entry is just a computer with access to the internet. It feels like a unique moment in human history.
+
+It also feels like the next big thing. Deep learning gives you a power to create applications that were basically impossible before with handed systems. Not only that but the field is only few years old . The research is programming heavy therefore I already have some of the prerequistite skills. It really feels like a nice shiny toy to play with for a programmer.
+
+
+
 
 ## Starting from Zero
-My background isn't in machine learning or mathematics.  I studied Psychology for 4 years at University but only ever took a couple of papers in statistics. 
-After reading some of Jeremy Khun's Programmer's introdution to mathematics ( watching heaps amounts of 3Brown1Blue videos ) I am very excited by the ideas and beauty of maths. Maybe more importantly, I really believe I can learn mathematics even though it was never my strength before. 
 
-Maybe its not really zero, I am a Javascript developer by trade. Three years ago I was working the most boring job ever, stocking taking chemicals in University labs and putting the data into excel. I was really motivated to do something else, so I quit my job and studied coding using Freecodecamp (ref) for 8months. I was lucky enough to get my first break at Forsite(link). Fast forward to now and I have been coding professionally for 2 years and I love it. 
+Programming is definitely a prerequisite to implementing Deep Learning. Many people also mention linear algebra and caclulus as prerequisites. 
 
-I have sort of been down this path before. I know I can learn a complex field from zero. 
-Deep learning and the mathematics involved is probably much more complex than learning web development and javascript.  
-I still feel like an imposter some days.  So why not feel like an imposter doing deep learning?
+I am zero in the mathematics regard, my background isn't in machine learning or mathematics.  I studied Psychology for 4 years at University but only ever took a couple of papers in statistics. 
+Now, after reading some of Jeremy Khun's Programmer's introdution to mathematics & watching 3Brown1Blue my eyes have been opened to the beauty of maths and excited to learn more of it.
+<!-- Maybe more importantly, I really believe I can learn mathematics even though it was never my strength before.  -->
+
+
+I am a Javascript developer by trade, so I think I pass the programming prerequisite. Three years ago I was working the most boring job ever, stocking taking chemicals in University labs and putting the data into excel. I was really motivated to do something else, so I quit my job and studied coding using Freecodecamp (ref) for 8months. I was lucky enough to get my first break at Forsite(link). Fast forward to now and I have been coding professionally for 2 years and I love it. 
+
+
+
+# learning
+Deep learning and the mathematics involved is probably much more complex than web development and javascript. But I have been down this path before and I know its possible. That (and few success stories on Medium) helps to give you confidence that during the long periods of frustration and confusion you will find a way out.   
+
+But how do you find your way out? When i first learn't code I developed some strategies over time of building projects, taking regular breaks and searching the right key words. These worked, but I would still struggle to digest concepts. Overall the process was still a bit haphazard, lots of forgetting then relearning stuff.
+
+This time around I want to take a more active and methodical approach to learning. Theres lots of decisions I will make about what and how to learn different content(What is the best way to learn Mathematics?). By writing I want to share my experience with what works. I am excited to add Anki, a spaced repetition tool, to my learning tool kit. But more on that later. 
+
+Through the learning there is always *Imposter Syndrome*. Some days you have a few eurekas, solve problems and you really feel like you can learn anything. Other times its frustrating, nothing makes sense, your motivation wanes and the magnitude of what you still don't know feels insurmountable. I still felt like an imposter some days doing Javascript.  So why not feel like an imposter doing deep learning?
 
 
 ## So naïve 
-Clearly you I am misguided if I believe that you can just learn in 3 months what takes a PhD student years! 
+If you look at any job add for a Deep Learning Research Engineer it will probably say: "requires Master/ PhD in Statistics or Comp Sci". You also see a similar thing for developer Jobs "requires Bachelors in Comp Sci".   
+Can you really learn in 3 months what takes a PhD student years? 
 
-Ok I admit the goal is a little preposterous. I may have gotten the wrong idea from Jeremy Howard and Rachel Thomas (ref). I found their deep learning for coders course in 2017 [<sup>6</sup>](#ref_6) and was given the idea that it was possible to learn math even if you were not good at it before AND that its possible to make meaningful contributions to deep learning research even if you didn't do a PhD.
+Firstly; I don't think you need a PhD. Just like you don't need a BSc in CompSci to get a developer job.  
+Secondly; I think you really can learn what a Deep Learning PhD student knows outside of academia. Ok I admit the goal is a little preposterous in 3 months. I am willing to budge on the time factor, but I don't think you need 3 - 5 years to get there. 
+
+I may have gotten the wrong idea from Jeremy Howard and Rachel Thomas (ref). I found their deep learning for coders course in 2017 [<sup>6</sup>](#ref_6) and was given the idea that it was possible to learn math even if you were not good at it before **AND** that its possible to make meaningful contributions to deep learning research even if you didn't do a PhD in Math.
 
 With that blissful ignorance about the difficulty we can happily skip into my plan ⬇️
 
@@ -50,7 +71,7 @@ Beside each course you'll see a number which is my arbitrary Full Time Effort me
 **1 point** being the full focus of a university paper for **1 semester** ( ~ 12 weeks ). 
 Of course it is arbitrary, but my idea behind this is to quantify, like in Scrum (ref), the complexity of AND effort I will spend on each course. Basically the less effort the more content I will skip from the course.
 
-The plan comes out to about 7.5 points. By the above definition this is nearly twice the amount of work I can fit into 12 weeks! 
+The plan comes out to about 7.5 points. By the above definition this is nearly twice the amount of work I can fit into 12 weeks.
 Lets see what happens...
 
 
@@ -93,9 +114,9 @@ Lets see what happens...
 I get asked this question by alot by friends and family when I tell them my plan.
 
 The answer is No.
-While I will get a certificate for completing deeplearning.ai (because I paid), I don't trust this will be enough proof for anyone. Especially as you can see above that this certificate will only account for a small amount of my overall learning!
+While I will get a certificate for completing deeplearning.ai (because I paid), I don't trust this will be enough proof for anyone. Especially as you can see above that this certificate will only account for a small amount of my overall learning.
 
-When I first learnt to code my certificate was my projects. At the time people had not heard of FreeCodeCamp, so their certificates were not worth much. The projects I built during the FreeCodeCamp curriculum were however undeniable proof. Github was the proof. You can hire me to write *javascirpt to build websites*, because here, I have built websites using javascript.
+When I first learnt to code my certificate was my projects. At the time people had not heard of FreeCodeCamp, so their certificates were not worth much and I only earn't one of 4 certificates. The projects I built during the FreeCodeCamp curriculum were however undeniable proof. Github was the proof. You can hire me to write *javascirpt to build websites*, because here, I have built websites using javascript.
 
 Rightly or wrongly I will follow this philosophy for deep learning. 
 Models in production with code on Github, implementing papers in code and technical writing will be my certificate of proficiency for deep learning.
@@ -110,33 +131,38 @@ There are three reasons (apart from the fact I am not sure if I could get straig
 A Masters in NZ would cost at least 10k plus the opportunity cost of one years income. If I study online I can cut this cost greatly and probably get access to on par course content from places like MIT open courseware. 
 
 **Low Risk**  
-Three months study wont cost much and it is less of a risk. There are alot of unknowns when switching to a new field of programming. In three months I can figure out if I actually like machine learning! Committing to a whole year of a Masters is big gamble when I am unsure if it is a good fit (ha).
-In the end if its not for me, well I can get a job writing Javascript again 🤷‍♂️ ( I love being a JS developer, so it’s a great second best ) 
+Three months study wont cost much and it is less of a risk. There are alot of unknowns when switching to a new field of programming. In three months I can figure out if I actually like machine learning. Committing to a whole year of a Masters is big gamble when I am unsure if it is a good fit (ha).
+In the end if its not for me, well I can get a job writing Javascript again 🤷‍♂️ 
 
 **The Cutting edge is online**  
-I don't want to learn to write matlab, or even R really. It seems to me that University Academia can very often be behind the cutting edge of Computer Science. Many of the things a Comp Sci grad needs for a developer job they will learn outside of uni.  
+I don't want to learn matlab, or R. It seems to me that University Academia can very often be behind the cutting edge of Computer Science. Many of the things a Comp Sci grad needs for a developer job they will learn outside of uni.  
 I think we are in a unique moment in history:  the field of machine learning has a majority of advanced content avaliable for free on the internet. 
 
-Finally, I think it is possible to get a job in deep learning without a Masters or PhD. You just need more hustle.
 
-## 🤔 You dont know what you dont know
+<!-- ## 🤔 You dont know what you dont know
 
 I have done something like this before when I learnt to code. When you are learning a completely new field, the path ahead of you keeps changing as you understand more. I have my ideas of what it is going to be like, what the best resources are and how to I should learn.  
-But, I am sure I will be wrong alot. I am happy to be wrong, even it cant take a while to accept. 
+But, I am sure I will be wrong alot. I am happy to be wrong, even it can take a while to accept. 
 
-At the end of 3 months at least I will have a pretty good idea of what I don’t know. 
+At the end of 3 months at least I will have a pretty good idea of what I don’t know.  -->
 
 
 ## 🧠 Anki and Michael Neilson
-I was super inspired by a great post by Michael Neilson on Augmenting Cognition (ref long but excellent read).
-I am excited to try and apply his strategies to my learning process over the next three months. Micheal advocates using the Anki (link) application and method to be remember more of what you spend your time learning. Anki is an open source spaced repetition flash card app (ref). You add questions and answers and each time you practice a card you answer how are you found it ( bad, good, easy ). Anki then uses the an algorithm based on the forgetting curve to remind you to rehearse this card at the optimal time solidify it as a long term memory. 
+I was super inspired by a great post by Michael Neilson on augmenting your cognition 
 
+[augementing cognition](http://augmentingcognition.com/ltm.html)
+
+I am excited to try and apply his strategies to my learning process over the next three months. Micheal advocates using the Anki (link) application and method to be remember more of what you spend your time learning. Anki is an open source spaced repetition flash card app (ref). You add questions and answers and each time you practice a card you answer how difficult you found it to remember ( bad, good, easy ). Anki then uses the an algorithm based on the forgetting curve (ref) to remind you to rehearse this card at the optimal time solidify it as a long term memory. 
+
+The main goal studying over the next 3 months is to remember what I learn. As Micheal says: *"Anki makes memory a choice, rather than a haphazard event, to be left to chance"*. It is a seductive idea. That by using Anki you can have a better memory and therefore be more efficient with the time you spend learning.
+
+<!-- 
 Micheal has also written about anki as a good method for gaining deeper understanding of mathematic theorems. Obviously that is relevant to my current endeavour.
-I have used anki a small amount, but plan to experiement alot during studies with most effective ways for me to learn new things. 
+I have used anki a small amount, but plan to experiement alot during studies with most effective ways for me to learn new things.  -->
 
-My biggest takeway from reading Micheal's post was his advice for starting to use anki. And I would repeat it for anyone who is interested in trying it out. "Cultivate a taste in what to Ankify". You should try to learn and understand what kind of information works well as anki cards, when in the learning process you should add it to anki and how to write the best cards.   
+My biggest takeway from reading Micheal's post was his advice for starting to use Anki. And I would repeat it for anyone who is interested in trying it out. *"Cultivate a taste in what to Ankify"*. You should try to learn and understand what kind of information works well as anki cards, when in the learning process you should add it to Anki and how to best write cards for different types of information. During my learning journey I plan to put alot of time into experiementing with the best ways to use Anki to make my learning more efficient.
 
-For example, I find again and again, that if I dont understand something putting it in Anki doesn't help. I just get reminded everyday that I dont understand. I find it best to ankify only when you hit the eureka moment of understanding what is happening, then I write better cards and I solidify that moment of understanding that I might have forgotten otherwise. 
+<!-- For example, I find again and again, that if I dont understand something putting it in Anki doesn't help. I just get reminded everyday that I dont understand. I find it best to ankify only when you hit the eureka moment of understanding what is happening, then I write better cards and I solidify that moment of understanding that I might have forgotten otherwise.  -->
 
 I hope to share my experiences with using Anki in future. 
 
@@ -163,9 +189,9 @@ My main motivation comes from the advice of Rachel Thomas and Jeremy Howard. The
 	</blockquote>
 </figure>
 
+If you are thinking about breaking in to deep learning, I think you can do it. 
 
-Thanks for reading, Hope you found it interesting!
-
+Thanks for reading, Hope you found it interesting.  
 hit me up on twitter ✌️
 
   
