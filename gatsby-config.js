@@ -19,7 +19,12 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/',
+      },   
+      {
+        label: 'Heatmap',
+        path: '/heatmap/',
       },
+
       {
         label: 'Contact me',
         path: '/contact/',
