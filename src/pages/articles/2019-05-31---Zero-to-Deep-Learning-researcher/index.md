@@ -36,7 +36,7 @@ I am a JavaScript developer by trade, so I think I pass the programming prerequi
 
 In the mathematics department, however, I am zero. My background isn't in machine learning or mathematics. I studied Psychology for 4 years at University but only ever took a couple of papers in statistics. Maths felt very foreign to me until recently. I have never studied linear algebra at all and would look with horror and intrigue at the matrices on my friends' assignments at university. It seemed impossible to learn higher level mathematics. Like, if you weren't good in high school then it's obviously not for you. You just don't have a math brain sorry. I mostly avoided the maths side of programming  when I learnt it. I could code just fine without it!
 
-However a little while ago I discovered Jeremy Khun's book: Programmer's introduction to Mathematics ([PIM](https://pimbook.org/)). Reading PIM has given me a new perspective on what the process of understanding maths is actually like. The process of struggling through frustration to understand a mathematical concept or proof seems very similar to the addictive frustration to solution rhythm of programming. The amazing [3Brown1Blue](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has also opened my eyes to the beauty of maths. And at this point, I am excited to learn more of it. 
+However a little while ago I discovered Jeremy Khun's book: Programmer's introduction to Mathematics ([PIM](https://pimbook.org/)). Reading PIM has given me a new perspective on what the process of understanding maths is actually like. The process of struggling through frustration to understand a mathematical concept or proof seems very similar to the addictive frustration to solution rhythm of programming. The amazing [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has also opened my eyes to the beauty of maths. And at this point, I am excited to learn more of it. 
 <!-- Maybe more importantly, I really believe I can learn mathematics even though it was never my strength before.  -->
 
 
@@ -203,4 +203,3 @@ Thanks for reading, hit me up on [twitter](https://twitter.com/pmccaffry) ✌️
 <a id="ref_4"><sup>4</sup></a> *To fill out some my practical knowledge of the python datascience ecosystem matplotlib, numpy etc.*  
 <a id="ref_5"><sup>5</sup></a> *Unknown how much this will cost as you can also use Google Colab with a GPU/TPU for free!*  
 <a id="ref_6"><sup>6</sup></a> *When I found the course I was actually searching for resources to learn about AWS and the first course included a lot of fiddly bits about setting up a GPU on AWS. Which I loved*  
-<a id="ref_8"><sup>8</sup></a> *Deep learning specifically, not neural networks or machine learning generally*
