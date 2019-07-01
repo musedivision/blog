@@ -1,6 +1,6 @@
 ---
 title: "Zero to Deep learning"
-date: "2019-05-02T22:40:32.169Z"
+date: "2019-07-01T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/3months-to-deep-learning/"
@@ -32,11 +32,11 @@ Everyday there is a new article about "AI", being implemented to revolutionise e
 
 Deep learning is supposed to be a very difficult and math heavy field. To deeply understand it, you should have a good foundation in the related mathematics subjects of linear algebra, calculus and probability. Then to get your hands dirty you need programming experience so that you can implement deep learning models. 
 
-I am a Javascript developer by trade, so I think I pass the programming prerequisite. Three years ago I was working the most boring job ever, stocking taking chemicals in University labs and putting the data into excel. I was really motivated to do something else, so I quit my job and studied coding using Freecodecamp (ref) for 8months. I was lucky enough to get my first break at Forsite(link). Fast forward to now and I have been coding professionally for 2 years and I love it. 
+I am a Javascript developer by trade, so I think I pass the programming prerequisite. Three years ago I was working the most boring job ever, stocking taking chemicals in University labs and putting the data into excel. I was really motivated to do something else, so I quit my job and studied coding using [Freecodecamp](https://www.freecodecamp.org/) for 8months. I was lucky enough to get my first break at [Forsite](https://forsitenz.com/). Fast forward to now and I have been coding professionally for 2 years and I love it. 
 
 In the mathematics department however, I am zero. My background isn't in machine learning or mathematics. I studied Psychology for 4 years at University but only ever took a couple of papers in statistics. Maths felt very foreign to me until recently. I have never studied linear algebra at all and would look with horror and intrigue at the matrices on my friends assignments at university. It seemed impossible to learn higher level mathematics. Like, if you weren't good in high school then it's obviously not for you. You just don't have a math brain sorry. I avoided the maths side of programming mostly when I learn't it. I could code just fine without it!
 
-However a little while ago I discoverd Jeremy Khun's book: Programmer's introdution to Mathematics (PIM). Reading PIM has given me a new perspective on what the process of understanding maths is actually like. The process of struggling through frustration to understand a mathematical concept or proof seems very similar to the addictive frustration to solution rhythm of programming. The amazing 3Brown1Blue has also opened my eyes to the beauty of maths. And at this point, I am excited to learn more of it. 
+However a little while ago I discoverd Jeremy Khun's book: Programmer's introdution to Mathematics ([PIM](https://pimbook.org/)). Reading PIM has given me a new perspective on what the process of understanding maths is actually like. The process of struggling through frustration to understand a mathematical concept or proof seems very similar to the addictive frustration to solution rhythm of programming. The amazing [3Brown1Blue](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has also opened my eyes to the beauty of maths. And at this point, I am excited to learn more of it. 
 <!-- Maybe more importantly, I really believe I can learn mathematics even though it was never my strength before.  -->
 
 
@@ -61,7 +61,7 @@ Can you really learn in 3 months what takes a PhD student years?
 
 I think you can learn what a Deep Learning PhD student knows outside of academia. Ok I admit the goal is a little preposterous in 3 months. I am willing to budge on the time factor, but I don't think you need 3 - 5 years to get there. 
 
-I may have gotten the wrong idea from Jeremy Howard and Rachel Thomas (ref). I found their deep learning for coders course in 2017 [<sup>6</sup>](#ref_6) and took from it the idea that it was possible to learn math even if you were not good at it before **AND** that its possible to make meaningful contributions to deep learning research even if you didn't do a PhD in Math.
+I may have gotten the wrong idea from Jeremy Howard and Rachel Thomas. I found their deep learning for coders [course](http://course17.fast.ai/) in 2017 [<sup>6</sup>](#ref_6) and took from it the idea that it was possible to learn math even if you were not good at it before **AND** that its possible to make meaningful contributions to deep learning research even if you didn't do a PhD in Math.
 
 With that blissful ignorance about the difficulty we can happily skip into my plan ⬇️
 
@@ -71,7 +71,7 @@ I hope to build a strong foundational knowledge in the practical methods for bui
 
 Beside each course you'll see a number which is my arbitrary Full Time Effort metric.  
 **1 point** being the full focus of a university paper for **1 semester** ( ~ 12 weeks ). 
-Of course it is arbitrary, but my idea behind this is to quantify, like in Scrum (ref), the complexity of AND effort I will spend on each course. Basically the less effort the more content I will skip from the course.
+Of course it is arbitrary, but my idea behind this is to quantify, like in [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), the complexity of AND effort I will spend on each course. Basically the less effort the more content I will skip from the course.
 
 The plan comes out to about 7.5 points. By the above definition this is nearly twice the amount of work I can fit into 12 weeks. I expect I will learn what is more important to focus on and change how I allocate my effort as I learn more.
 Lets see what happens...
@@ -81,28 +81,28 @@ Lets see what happens...
 
 | `Course/Book`   | FTE   | Cost |
 | :-- | --- | ---
-| `Fastai`   |  | 
-- Practical Deep Learning for Coders Part 1 (2019) | 1.5 | 
-- Deep Learning Part 2 (2019) | 1.5 | 
+| `Fastai 2019`   |  | 
+- Part 1: [Practical Deep Learning for Coders](https://course.fast.ai/) | 1.5 | 
+- Part 2: [Deep Learning from the Foundations](https://course.fast.ai/part2) | 1.5 | 
 | `Deeplearning.ai`   |  |  
-- Deep learning specialization[<sup>1</sup>](#ref_1) | 0.5 | *$45*
+- [Deep learning specialization](https://www.coursera.org/specializations/deep-learning) [<sup>1</sup>](#ref_1) | 0.5 | *$45*
 | `Jeremy Khun`   |  |  
-- Programmers Introduction to Mathematics Book [<sup>2</sup>](#ref_2) | 0.5 | 
+- [Programmers Introduction to Mathematics Book](https://pimbook.org/) [<sup>2</sup>](#ref_2) | 0.5 | 
 | `MIT`   |  | 
-- XXXX Single Variable Calculus | 0.2 | 
-- 18.02 Multivariable Calculus| 0.4 | 
-- 18.06 Linear Algebra | 0.7 | 
-- 18.065 Matrix Methods in Data analysis, signal processing and machine learning | 0.7 | 
+- 18.01 [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | 0.2 | 
+- 18.02 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 0.4 | 
+- 18.06 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) | 0.7 | 
+- 18.065 [Matrix Methods in Data analysis, signal processing and machine learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) | 0.7 | 
 | `3Blue1Brown`   |  | 
-- Essence of Linear Algebra & Calculus | 0.5 | 
+- Essence of [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) & [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 0.5 | 
 | `Khan Academy`   |  | 
 - Linear Algebra & Calculus | 0.3 | 
 | `Udemy`   |  | 
-- Swift - iOS app development [<sup>3</sup>](#ref_3) | 0.3 | $11
-- Python for data science and machine learning [<sup>4</sup>](#ref_4) | 0.3 | $11
+- [Swift - iOS app development](https://www.udemy.com/ios-12-app-development-bootcamp/) [<sup>3</sup>](#ref_3) | 0.3 | $11
+- [Python for data science and machine learning](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) [<sup>4</sup>](#ref_4) | 0.3 | $11
 |  |  . |
 | `Resources` |   |
-| GPU server instance  - AWS p2 instance <200 hours[<sup>5</sup>](#ref_5) |  | ~$300 
+| [GPU server instance](https://course.fast.ai/start_aws.html)  - AWS p2 instance <200 hours[<sup>5</sup>](#ref_5) |  | ~$300 
 |  |  . |
 |  |  .|
 | Total | 7.4 | ~$367
@@ -163,7 +163,7 @@ I was super inspired by a great post by Michael Neilson on augmenting your cogni
 
 [augementing cognition](http://augmentingcognition.com/ltm.html)
 
-I am excited to try and apply his strategies to my learning process over the next three months. Micheal advocates using the Anki (link) application and method to be remember more of what you spend your time learning. Anki is an open source spaced repetition flash card app (ref). You add flash cards with questions and answers. Each time you practice a card you answer how difficult you found it to remember ( bad, good, easy ). Anki then uses the an algorithm based on the forgetting curve (ref) to remind you to rehearse each flashcard at the optimal time solidify it as a long term memory. 
+I am excited to try and apply his strategies to my learning process over the next three months. Micheal advocates using the [Anki](https://apps.ankiweb.net/) application and method to be remember more of what you spend your time learning. Anki is an open source spaced repetition flash card app. You add flash cards with questions and answers. Each time you practice a card you answer how difficult you found it to remember ( bad, good, easy ). Anki then uses the an algorithm based on the [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) to remind you to rehearse each flashcard at the optimal time solidify it as a long term memory. 
 
 The main goal studying over the next 3 months is to remember what I learn. As Micheal says: *"Anki makes memory a choice, rather than a haphazard event, to be left to chance"*. It is a seductive idea. That by using Anki you can have a better memory and therefore be more efficient with the time you spend learning.
 
@@ -193,13 +193,13 @@ My main motivation comes from the advice of Rachel Thomas and Jeremy Howard. The
 
 If you are thinking about breaking in to deep learning, I think you can do it. 
 
-Thanks for reading, hit me up on twitter ✌️
+Thanks for reading, hit me up on [twitter](https://twitter.com/pmccaffry) ✌️
 
   
 ------
 <a id="ref_1"><sup>1</sup></a> *I intend to take the deeplearning.ai course as supplement to fastai practical deep learning courses*  
 <a id="ref_2"><sup>2</sup></a> *This book got me excited about the ideas and magic of mathematical proofs and the beauty behind it. It has helped to change my view of mathematics. I think of it like a foundational perspective on the subject, rather than a rigorous course to teach me many subjects.*  
-<a id="ref_3"><sup>3</sup></a> *Swift for Tensorflow seems important (ref)*  
+<a id="ref_3"><sup>3</sup></a> *Swift for Tensorflow seems [important](https://www.fast.ai/2019/03/06/fastai-swift/)  so I should learn swift*  
 <a id="ref_4"><sup>4</sup></a> *To fill out some my practical knowledge of the python datascience ecosystem matplotlib, numpy etc.*  
 <a id="ref_5"><sup>5</sup></a> *Unknown how much this will cost as you can also use Google Colab with a GPU/TPU for free!*  
 <a id="ref_6"><sup>6</sup></a> *When I found the course I was actually searching for resources to learn about AWS and the first course included alot fiddily bits about setting up a GPU on AWS. Which I loved*  
