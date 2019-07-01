@@ -6,7 +6,7 @@ module.exports = {
     site_url: 'https://musedivision.github.io/blog',
     siteUrl: 'https://musedivision.github.io/blog',
     url: 'https://musedivision.github.io/blog',
-    title: 'thinking...',
+    title: 'McCaffrey',
     subtitle:
       'learning how to learn',
     copyright: '© All rights reserved.',
